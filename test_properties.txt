@@ -1,5 +1,5 @@
-text,text
-hell,hell 
+teext,text
+helpp,help
 surry,sorry
 byee,bye
 deadk,dead
