@@ -1,5 +1,5 @@
-text
-hellln 
-surry
-Byee
-Deadk
+text,text
+hell,hell 
+surry,sorry
+byee,bye
+deadk,dead
